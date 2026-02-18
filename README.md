@@ -1,3 +1,4 @@
+**Status:** Active Development
 # Lip Reading – Visual Speech Recognition
 
 A deep learning system that predicts spoken words from a silent video by analyzing lip movements.  
@@ -121,6 +122,18 @@ The model is trained on the **LRS2 dataset**, a publicly available dataset conta
 - Use sequence models (LSTM/Transformer)
 - Sentence-level prediction instead of word-level
 - Real-time webcam prediction
+
+---
+
+## Current Progress
+- Data preprocessing and frame extraction pipeline implemented
+- CNN architecture designed and partially trained on LRS2 dataset
+- Prediction pipeline working on sample inputs
+
+## Ongoing Work
+- Extended training on larger dataset split
+- Performance improvement and hyperparameter tuning
+- Real-time inference optimization
 
 ---
 
