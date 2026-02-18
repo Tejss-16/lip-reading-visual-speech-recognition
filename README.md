@@ -136,6 +136,10 @@ The model is trained on the **LRS2 dataset**, a publicly available dataset conta
 - Real-time inference optimization
 
 ---
+## Project Report
+A detailed explanation of methodology, dataset preparation, and experiments is available here:
+[Project Report](docs/Lip_Reading_Project_Report.pdf)
+
 
 ## Author
 **Tejas Mestry**  
